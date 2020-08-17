@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066788802793",
+    "firebase_url": "https://ytalk-97459.firebaseio.com",
+    "project_id": "ytalk-97459",
+    "storage_bucket": "ytalk-97459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066788802793:android:d4b29fa49d044cbffae078",
+        "android_client_info": {
+          "package_name": "com.neotericdev.ytalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066788802793-o57gabmcp53pn6701ksa0lcomg0hbbjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neotericdev.ytalk",
+            "certificate_hash": "ba33010cc38337c4678bfb55fee4ee5e8631740a"
+          }
+        },
+        {
+          "client_id": "1066788802793-oke8f27gful2hv6vkljudvikr2hn45rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMJPLlo-vktUnXfg_JBlLBdwrBgpuXAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066788802793-oke8f27gful2hv6vkljudvikr2hn45rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
